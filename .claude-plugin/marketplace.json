@@ -1,0 +1,25 @@
+{
+  "name": "greenative-local",
+  "owner": {
+    "name": "Greenative",
+    "email": "support@greenative.io"
+  },
+  "metadata": {
+    "description": "Greenative Platform skills",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "greenative",
+      "description": "Skills for Greenative Platform API - datasource, entity, function, KVS, and storage operations",
+      "source": "./",
+      "skills": [
+        "./skills/datasource",
+        "./skills/entity",
+        "./skills/function",
+        "./skills/kvs",
+        "./skills/storage"
+      ]
+    }
+  ]
+}
