@@ -1,8 +1,8 @@
 {
-  "name": "greenative-local",
+  "name": "greenative",
   "owner": {
     "name": "Greenative",
-    "email": "support@greenative.io"
+    "email": "support@avgidea.io"
   },
   "metadata": {
     "description": "Greenative Platform skills",
@@ -10,7 +10,7 @@
   },
   "plugins": [
     {
-      "name": "greenative",
+      "name": "greenative-skills",
       "description": "Skills for Greenative Platform API - datasource, entity, function, KVS, and storage operations",
       "source": "./",
       "skills": [
