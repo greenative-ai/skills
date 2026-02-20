@@ -100,11 +100,27 @@ Upload, download, list, and delete objects in storage datasources.
    - [API keys guide](https://doc.avgidea.io/application-integration/external-application-access)
 
 3. Set environment variables
+   
+   Claude Code
    ```
    GN_KEY=<access key>
    GN_SECRET=<secret key>
    GN_ENDPOINT=<Greenative API Endpoint>
    ```
+
+   Claude Desktop
+   ```
+   # ~/.claude/settings.json
+   {
+      "env": {
+       "GN_KEY": "<access key>",
+       "GN_SECRET": "<secret key>",
+       "GN_ENDPOINT": "<Greenative API Endpoint>"
+      },
+      ...
+   }
+   ```
+
 
 ### Claude Code
 
