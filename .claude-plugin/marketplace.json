@@ -19,7 +19,9 @@
         "./skills/function",
         "./skills/kvs",
         "./skills/storage"
-      ]
+      ],
+      "keywords": ["greenative", "data-processing", "data engineering", "key-value store", "storage"],
+      "category": "productivity"
     }
   ]
 }
