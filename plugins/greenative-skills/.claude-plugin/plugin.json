@@ -1,0 +1,5 @@
+{
+  "name": "greenative-skills",
+  "description": "Skills for Greenative Platform API - datasource, entity, function, KVS, and storage operations",
+  "version": "1.0.0"
+}

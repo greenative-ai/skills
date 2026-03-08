@@ -5,21 +5,14 @@
     "email": "support@avgidea.io"
   },
   "metadata": {
-    "description": "Greenative Platform skills",
+    "description": "Greenative plugins",
     "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "greenative-skills",
       "description": "Skills for Greenative Platform API - datasource, entity, function, KVS, and storage operations",
-      "source": "./",
-      "skills": [
-        "./skills/datasource",
-        "./skills/entity",
-        "./skills/function",
-        "./skills/kvs",
-        "./skills/storage"
-      ]
+      "source": "./plugins/greenative-skills"
     }
   ]
 }
