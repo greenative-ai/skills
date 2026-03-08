@@ -131,7 +131,7 @@ Register this repository as a Claude Code plugin marketplace:
 
 Then install the skills and select the appropriate scope:
 ```
-/plugin install greenative-skills
+/plugin install greenative-skills@greenative
 ```
 
 greenative-skills will be available after restarting Claude Code
